@@ -20,7 +20,6 @@
 🧱 SSOO <br>
 🖥️ Shell Script -->  - ps1
     🐧 bash - sh - ksh <br>
-   ![Windows](./images/windows-logo.svg) <br>
 💻 Python - <br>
 🎨 HTML - <br>
 📊 BI <br>
