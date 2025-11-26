@@ -2,37 +2,57 @@
 ## 🔹  Nacho San Juan Anaya 🔹
 <hr style="height: 6px; background-color: #000; border: none;"> <br>
 
-📍 Madrid, España <br>
-🌐 <a href="www.linkedin.com/in/nacho-san-juan-anaya" target="_blank">LinkedIn</a>
+
+
+## 🚀 Sobre mí
+--
+**BI System administrator && DBA** <br>
+    📍 Madrid, España <br>
+    (mail) nachosanjuananaya@gmail.com
+    🌐 <a href="www.linkedin.com/in/nacho-san-juan-anaya" target="_blank">LinkedIn</a> <br>
+
+
+<hr style="height: 6px; background-color: #000; border: none;"> <br>
+<br>
+
+## 🎓 Formación
+--
+
+
+
+
+<hr style="height: 6px; background-color: #000; border: none;"> <br>
+
+## 🛠️ Skills
+--
+
+> **FRONTend:** <br>
 
 
 <br>
 
-# 🎓 Formación
---
-
-
-
-
-
-
-# 🚀 Skills
---
-⚙️ Automatización de procesos <br>
-🔗 Integraciones vía APIs <br>
-🧱 SSOO <br>
-🖥️ Shell Script -->  <br>
+> **BACKend:** <br>
+- ⚙️ Automatización de procesos <br>
+- 🔗 Integraciones vía APIs <br>
+- 🧱 SSOO <br>
+- 🖥️ Shell Script -->  <br>
     🐧 `bash` - `sh` - `ksh` <br>
     (WIN) PowerShell `ps1` <br>
-💻 Python - <br>
-🎨 HTML - <br>
-📊 BI <br>
-🔐<br><br><br>
+- 💻 Python - <br>
+- 🎨 HTML - <br>
+- 📊 BI <br>
+- 🔐<br><br><br>
+
+> **TOOLs:** <br>
+
+<hr style="height: 6px; background-color: #000; border: none;"> <br>
 
 
-# 💬 Idiomas 
+## 💬 Idiomas
 --
-Español: Nativo <br>
-Inglés: Profesional 
 
+- Español: Nativo <br>
+- Inglés: Profesional 
+
+<hr style="height: 6px; background-color: #000; border: none;"> <br>
 <br>
