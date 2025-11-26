@@ -1,5 +1,9 @@
 # 🔹  Nacho San Juan Anaya 🔹
 
+📍 Madrid, España <br>
+🌐 <a href="www.linkedin.com/in/nacho-san-juan-anaya" target="_blank">LinkedIn</a>
+
+
 <br>
 
 🎓 Formación
@@ -14,6 +18,9 @@
 ⚙️ Automatización de procesos <br>
 🔗 Integraciones vía APIs <br>
 🧱 SSOO <br>
+🖥️ Shell Script -->  - ps1
+    🐧 bash - sh - ksh <br>
+   ![Windows](./images/windows-logo.svg) <br>
 💻 Python - <br>
 🎨 HTML - <br>
 📊 BI <br>
