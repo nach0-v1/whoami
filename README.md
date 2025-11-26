@@ -1,14 +1,14 @@
 <hr style="height: 6px; background-color: #000; border: none;">
-## 🔹  Nacho San Juan Anaya 🔹
+
+████████▓▓▓▓▓▓▓▓▓▒▒▒▒▒░░░░░░   🔹  Nacho San Juan Anaya 🔹    ░░░░░░▒▒▒▒▒▓▓▓▓▓▓▓▓▓████████
+
 <hr style="height: 6px; background-color: #000; border: none;"> <br>
-
-
 
 ## 🚀 Sobre mí
 --
 **BI System administrator && DBA** <br>
     📍 Madrid, España <br>
-    (mail) nachosanjuananaya@gmail.com  <br>
+    ✉️ nachosanjuananaya@gmail.com  <br>
     🌐 [LinkedIn](https://www.linkedin.com/in/nacho-san-juan-anaya/) <br>
 
 
